@@ -2,7 +2,7 @@
 
 Coursework from COS1020: C++ Programming at the American University in Bulgaria (AUBG).
 
-## Course Overview
+## Overview
 
 This repository contains exercises, labs, and homework assignments covering fundamental to advanced C++ programming concepts.
 
