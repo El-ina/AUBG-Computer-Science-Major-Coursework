@@ -5,7 +5,7 @@ This repository serves as a portfolio of my academic work as a Computer Science 
 ## Courses
 
 - ### Fall 2025
-  - **[COS1020 - C++ Programming](./COS1020-C++-Programming/)** - Fundamental C++ programming concepts
+  - [COS1020 - C++ Programming](./COS1020%20-%20C++%20Programming) - Fundamental C++ programming concepts
 
 ---
 *Additional coursework will be added as I progress through the program.*
