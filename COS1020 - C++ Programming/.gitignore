@@ -5,6 +5,7 @@
 *.ipr
 
 # CMake build directories
+CMakeLists.txt
 cmake-build-*/
 build/
 out/
