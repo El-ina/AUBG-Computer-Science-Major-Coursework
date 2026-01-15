@@ -4,7 +4,7 @@ Coursework from COS1020: C++ Programming at the American University in Bulgaria 
 
 ## Overview
 
-This repository contains exercises, labs, and homework assignments covering fundamental to advanced C++ programming concepts.
+This repository contains exercises and homework assignments covering fundamental C++ programming concepts studied in COS1020.
 
 ## Repository Structure
 
