@@ -18,23 +18,7 @@ public class Question10 {
             }
         }
 
-        int remainder = Math.max(a, b) % Math.min(a, b);
-        int gcd = 0;
-
-        if(remainder == 0){
-            System.out.println("GCD: " + Math.min(a, b));
-        }
-        else{
-            while (remainder != 0){
-                gcd = remainder;
-                remainder = Math.max(a, b) % Math.min(a, b);
-
-                a = Math.min(a, b);
-                b = remainder;
-            }
-
-            System.out.println("GCD: " + gcd);
-        }
+        Question20.getGCD(a, b);
 
         System.out.println("LCM: " + lcm);
     }
